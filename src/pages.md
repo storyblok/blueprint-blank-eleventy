@@ -9,4 +9,6 @@ eleventyComputed:
 permalink: '{{ item.permalink }}'
 ---
 
+<main>
 {{ item.body }}
+</main>
