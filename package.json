@@ -7,9 +7,9 @@
 		"dotenv": "^16.5.0"
 	},
 	"scripts": {
-		"build": "eleventy",
-		"debug": "DEBUG=Eleventy* npx eleventy --serve",
-		"dev": "npx eleventy --serve",
+		"build": "npx @11ty/eleventy",
+		"debug": "DEBUG=Eleventy* npx @11ty/eleventy --serve",
+		"dev": "npx @11ty/eleventy --serve",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	}
 }
