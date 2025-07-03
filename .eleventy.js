@@ -9,6 +9,7 @@ export default function eleventy(config) {
 	return {
 		dir: {
 			input: 'src',
+			outout: '_site',
 		},
 	};
 }
