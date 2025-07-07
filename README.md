@@ -1,4 +1,4 @@
-# Storyblok Starter Space Blueprint: Eleventy
+# Storyblok Core Space Blueprint: Eleventy
 
 Integrate [Eleventy](https://11ty.dev/) with [Storyblok](http://www.storyblok.com) as a headless CMS.
 
