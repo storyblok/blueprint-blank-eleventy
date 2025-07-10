@@ -1,3 +1,9 @@
 [build]
 command = "npm run build"
 publish = "_site"
+
+[[redirects]]
+  from = '/home'
+  to = '/'
+  status = 307
+  force = true
